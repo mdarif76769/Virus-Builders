@@ -28,6 +28,12 @@ More scripts will be added with time
 cd Virus-Builders
 ```
 ```
+python3 -m venv venv
+```
+```
+source venv/bin/activate
+```
+```
 pip install -r requirements.txt
 ```
 ```
