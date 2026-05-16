@@ -2,7 +2,7 @@
 This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive
 More scripts will be added with time
 
-![Screenshot 2025-02-08 234202](jjjhu)
+![Screenshot 2025-02-08 234202](files/Screenshot_2026-05-16-20-38-09-360_com.termux.jpg)
 
 # Telegram
 * Join Telegram Channel https://t.me/RS5ARIF
