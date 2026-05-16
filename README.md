@@ -34,7 +34,7 @@ python3 Builders.py
 *Once Virus is generated! exit the tool and type 'cp ifection.bat/sdcard' without quotes*
 
 # Screenshots
-![Screenshot 2025-02-08 234133](gjhggh)
+![Screenshot 2025-02-08 234133](files/Screenshot_2026-05-16-20-39-45-024_com.termux.jpg)
 
 
 
